@@ -1,0 +1,8 @@
+name: DomainTeleport
+main: org.inventivetalent.domainteleport.DomainTeleport
+author: inventivetalent
+version: ${project.version}
+
+commands:
+  domainteleport:
+    aliases: [domaintp, dtp, dt]

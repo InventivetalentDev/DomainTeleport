@@ -1,0 +1,7 @@
+#Delay until teleporting (20 = 1 second)
+teleportDelay: 20
+#If this server is behind a Bungeecord proxy
+bungeecord: false
+#Ignore upper/lower-case in domains
+ignoreCase: false
+debug: false
